@@ -1,0 +1,9 @@
+-I/usr/local/include
+-I/Library/Developer/CommandLineTools/usr/include/c++/v1
+-I/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include
+-I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include
+-I/Library/Developer/CommandLineTools/usr/include
+-I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks
+-I/Users/joanparellada/Documents/UOC/PP2020/UOC2019infection_v2/UOCinfection
+-I/Users/joanparellada/Documents/UOC/PP2020/UOC2019infection_v2/UOCinfection/test/include
+-I/Users/joanparellada/Documents/UOC/PP2020/UOC2019infection_v2/UOCinfectiousAgent/include

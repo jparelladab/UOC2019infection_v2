@@ -1,0 +1,7 @@
+bin
+lib
+Makefile
+*.zip
+UOC2019_2
+*.codelite
+*.build-debug
